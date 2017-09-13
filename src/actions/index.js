@@ -1,2 +1,3 @@
-// nothing here yet
-// or is there?
+export function selectBook(book) {
+  console.log("book selected ",book.title);
+}
